@@ -1,0 +1,173 @@
+Capgemini Interview
+
+
+
+1.How to set up load Balancer.
+
+2.Migration.which method your using.
+
+3.difference between OVF and VMDK
+
+4.Use of VPC how to create.
+
+5.Why we use Cloud.
+
+6.What security you believe using AWS Cloud.
+
+7.Why can't use on premises any drawbacks.
+
+8.explain VPC CIRD.
+
+9.What is EC2 how to create with steps.
+
+10.Autoscaling and Load Balancer.
+
+11.possible to ScaleOut the our servers.
+
+12.What is Cloud Front.
+
+13.What is Cloud Trail in AWS.
+
+14. difference between Cloud Formation and Terraform.
+
+15.Cloud watch.
+
+16.what are the default metrics available in cloud watch in Dashboard.
+
+17. Is memory Utilization also available in Cloud watch metrics to Monitor the EC2 Instance.
+
+18.Ansible Work flow.
+
+19.Ansible work on which port.
+
+20.Security Groups in AWS. Inbound and outbound rules
+
+21.IP address class ranges.
+22.What Project you involved.
+
+23.Explain yourprojects in brief.
+24.where Client Geographical era.
+
+25.What security your give to your application using AWS.
+
+Wipro
+-------
+1.What resources you provisioning through the Terraform in AWS.
+2.How to setup ELB Via Terraform
+3.How you Manage the SSL certificate using SSL.
+4.what security Guidlines your using in AWS
+5.For public access your terminating instance directly or how about you done.
+6.End user can access at suggestion Interface on Http or Https how you configured.?
+7.SSL configured in Instance itslef or in Load Balancer.
+8.LB sending the traffic by instances on http or https again.
+9.RDS -
+10. Do you have exposer installing  postgreSQL on your VM  how to install.
+(without RDS postgreSQL--Manually install postgresql on VM).
+11.what Application server running on project..?
+12.How to destroying java Application.
+13.Tomcat version.
+14. are you setup Tomcat Clustring as well or in single instance.
+15.Ansible scripts are you managing in locally headless or in central location.
+16.Ansible Tower.
+17.Tomcat8 to Tomcat 9 upgrade.
+18.how to manage your traffic to instances.
+
+philips interview questions..
+-----------------
+1.How will suggest to new customer for instance types?
+2.How will you connect different region instances?
+3.How to configuring vpc and what are the vpc resources?
+4.How will you connect one vpc to anothe in different regions?
+5.Is there a versioning in s3?
+6. What is git and what are the uses of git?
+7.How will you check the ip is public or private?
+8.What would you do if my instance is not connecting?
+9.What is Cloud computing and types of cloud computing?
+10.What is Iaas,Paas,Saas and what are the services under these three?
+11.What are the types of innstances ?
+12.Difference between on-demand,reserved, spot and dedicated host?
+13.How will you test your instance is connecting or not?
+14.How to mount a drive in linux?
+15.How to create a DNS in Route53?
+16.How will you migrate databases from local to aws by using RDS?
+
+SDL Bangalore
+-----------
+1.Tell me about your self
+2.what are the Roles and responsibilties
+3.which monitoring tool using in cloud and How monitor the resources/services
+4.Application server down what is reason and how to troubleshoot them.
+5.How to troubleshoot the servers related issue
+6.how to check the diskspace.
+7. how to check the cpu utilization in windows
+8.Explain CI/CD process
+9.what do you know about the DEVOPS
+
+1.Difference between maven and Ant why you choose Maven.
+2.About the Elastic Load Balancer How it works
+3.What are the Subnets
+4. What is the Use of AMI
+5.Can you Launch instance with out AMI
+6.What is CI/CD
+7.Any Script used in project
+8.Difference between Ansible and Chef
+9.What are the Testing used in your project.
+10.How do you plan tasks in Agile Process
+11.How do you configure the Heapsize in Tomcat.
+12.How to Chnage the Heap Size.
+
+3.How to Automate Provisioning Instances by Using Script,creation of EC2 instance using scripts.
+4.what are the operations you do with EC2.
+5.Command to find the Java Process.
+   ans: ps aux | grep java
+
+6.What is Adhoc-ps commands.
+7.Have you installed any Software in Ec2
+8.How to Install Tomcat in Ec2 Instance
+9.Have you configured SSL
+
+Ans :  ganerate JKS (java key store)file using key tool  
+        create CSR (certification signing request)
+        send CSR  to CA(certification AUthority)
+         they will provide public key and along with root and intermediate cerificate-- move to JKS file
+
+JKS means :: mechanism designed to create and manage private key or digital cerficate pairs
+                ( means its private key)
+
+10.How to enable Https and Its Port Number.
+11.How to add extra instance to ELB.
+12.How do you connect to AWS Instance.
+13.How do you Build and Deploy in Jenkins.
+14.What is the Use case of Ansible.
+15.How do you build dependency jobs in maven.
+16.Tell me Maven commands.
+17.How do you resolve the Push and Pull conflicts.
+18.How you merge the code into Master.
+19.what is the Cloud watch.
+
+
+1. difference between Spot Instance and  On-demand Instances.
+2.What Lamda Function you implemented in your environments,Explain the process
+3.We have Autoscaling instances in 3 availability zones, If instance is terminated in one availability zone,in which zone by default.
+4.Difference between Versioning and Git or Bitbucket versioning.
+5.Different types of Storages in S3
+6.If we add a file from standard to Glacier,How long will take to restore to standard.
+7.Difference between Access key and secreat key
+8.Difference between public and private subnets
+9.How to login to EC2 if we have no public ip
+10.How will you login to ec2 instance if server have no public IP
+11.How to restrict EFS to access particular servers and users.
+12.What are the default AWS cloudwatch services
+13.Different types of Notifications.
+
+1. How to Acheive CI/CD in your Project end to end.
+2.Can you explain how to setup Ansible in your Project.
+3.Playbook for DB deployment.
+4.Is your Application running on all Java based servers..?
+5.Critical scenario Handeled during the production support.
+6.Explain the roles in Environment setup..?
+7.What are the process you follow  for Production deployment.
+8.How you debug Java Application Logs.
+9.Commands to Debugging.
+
+
